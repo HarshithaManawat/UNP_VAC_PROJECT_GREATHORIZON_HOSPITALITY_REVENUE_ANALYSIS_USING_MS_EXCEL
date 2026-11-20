@@ -31,4 +31,4 @@ Through this project, I gained practical experience in data cleaning, data visua
 
 Overall, this project strengthened my analytical thinking, statistical knowledge, Excel skills, and ability to use data-driven approaches to understand business problems and support decision-making.
 
-MS EXCEL PROJECT FILE : https://drive.google.com/drive/folders/1e48B8bjT51PodcZ6MgCK_RaIDcZEDhUq?usp=drive_link
+MS EXCEL PROJECT FILE : https://drive.google.com/drive/folders/1e48B8bjT51PodcZ6MgCK_RaIDcZEDhUq?usp=sharing
